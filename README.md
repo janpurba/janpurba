@@ -64,6 +64,15 @@ Deliverables:
 - Connection-pool and resilience review
 - Observability checklist
 - Phased rollout plan
+
+## Suggested Public Repositories
+
+These are the repositories I plan to build or polish as public proof-of-work:
+
+- `spring-boot-performance-lab` - demo app for endpoint latency, caching, query tuning, and observability.
+- `mysql-rds-query-audit-playbook` - repeatable checklist for slow query investigation and EXPLAIN analysis.
+- `rabbitmq-cache-invalidation-demo` - fanout invalidation pattern for multi-instance Spring Boot services.
+- `backend-modernization-checklist` - practical modernization checklist for Java/Spring Boot systems.
   
 ## Contact
 
